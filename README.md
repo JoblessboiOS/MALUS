@@ -6,5 +6,5 @@ My AdultLink Url Shortner Plugin that changes normal links in threads with adult
 1.0
 
 ## Official Website
-[ServersLab](http://serverslab.net)
+[ServersLab Inc.](http://serverslab.net)
 
