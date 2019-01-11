@@ -6,5 +6,5 @@ This is My AdultLink Url Shortener (MALUS) Plugin v1.0 that changes normal links
 1.0
 
 ## Official Website
-[ServersLab Inc.](http://serverslab.net)
-
+[ServersLab Inc.](https://serverslab.net)
+[Forum - Plugin - Support](https://serverslab.net/forumdisplay.php?fid=200)
